@@ -1,3 +1,4 @@
-time do coraçao: Inter
+time do coraçao: Gremio
 cidade: torres 
 idade: 26
+Formação: Cursando Analise Desenvolvimento de Sistemas
